@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Rick Sanchez",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "origin":{
+          "name": "Earth (C-137)"
+        },
+        "location":{
+          "name":	"Citadel of Ricks"
+        }
+      },
+      {
+        "name": "Morty Smith",
+        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+        "origin":{
+          "name": "unknown"
+        },
+        "location":{
+          "name":	"Citadel of Ricks"
+        }
+      },
+      {
+        "name": "Summer Smith",
+        "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+        "origin":{
+          "name": "Earth (Replacement Dimension)"
+        },
+        "location":{
+          "name":	"Earth (Replacement Dimension)"
+        }
+      },
+      {
+        "name": "Beth Smith",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "origin":{
+          "name": "Earth (C-137)"
+        },
+        "location":{
+          "name":	"Citadel of Ricks"
+        }
+      }
+
+]
