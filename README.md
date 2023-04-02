@@ -1,4 +1,4 @@
-# Desafio Fronted Mentor
+# Personajes de Rick and Morty.
 
 [Revisa la Documentacion de la API aqui](https://rickandmortyapi.com/documentation/)
 
