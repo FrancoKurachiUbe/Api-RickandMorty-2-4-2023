@@ -11,7 +11,10 @@ export default ({item, handleOpenCard}) => {
             <img className='rounded-full mx-auto' src={item.image} alt="" />
             <h2 className='font-bold text-center text-xl font-serif'>{item.name}</h2>
             
-            <span className={`absolute top-2 right-2 text-white w-20 py-1 text-center rounded-md text-lg bg-${item.status === "Alive" ? 'green-600' : item.status === 'Dead' ? 'red-600' : 'black'}`}>
+            <span className={`absolute top-2 right-2 text-white w-20 py-1 text-center rounded-md text-lg 
+            ${item.status === "Alive" ? 'bg-green-600' :
+              item.status === 'Dead' ? 'bg-red-600' :
+              'bg-black'}`}>
             {item.status}</span>
         </div>
       </a>        
